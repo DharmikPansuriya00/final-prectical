@@ -10,8 +10,6 @@ This project demonstrates a complete **Data Science and AI/ML workflow** using a
 
 ## 🎥 Project Video
 
-Watch the complete project demonstration:
-
 **[▶️ Watch Project Video]([(https://drive.google.com/file/d/1TgFKJaP7tCHu0az8vM7-gOjxBprt_UK3/view?usp=sharing)])**
 
 
