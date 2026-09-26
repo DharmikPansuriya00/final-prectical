@@ -12,9 +12,9 @@ This project demonstrates a complete **Data Science and AI/ML workflow** using a
 
 Watch the complete project demonstration:
 
-**[▶️ Watch Project Video](YOUR_VIDEO_LINK_HERE)**
+**[▶️ Watch Project Video]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1TgFKJaP7tCHu0az8vM7-gOjxBprt_UK3/view?usp=sharing))**
 
-> Replace `YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or other video URL.
+
 
 ## 📌 Project Overview
 
