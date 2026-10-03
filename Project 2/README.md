@@ -7,21 +7,6 @@
 
 > Replace the placeholder above with your Google Drive / YouTube / OneDrive / other submission link. Make sure the link has the required viewing access.
 
----
-
-## 👥 Group Structure
-
-| Role | Name | Responsibility |
-|---|---|---|
-| Group Member 1 | `YOUR NAME` | Data generation, data inspection & preprocessing |
-| Group Member 2 | `YOUR NAME` | Statistics & hypothesis testing |
-| Group Member 3 | `YOUR NAME` | Logistic Regression & evaluation |
-| Group Member 4 | `YOUR NAME` | K-Means clustering & interpretation |
-| Group Member 5 | `YOUR NAME` | ANN, training, evaluation & final documentation |
-
-> Replace the names and responsibilities with your actual group members. If your group has fewer or more members, add/remove rows as required.
-
----
 
 
 A complete machine-learning practical project covering **statistics, data preprocessing, feature engineering, supervised learning, K-Means clustering, and an Artificial Neural Network (ANN)**.
