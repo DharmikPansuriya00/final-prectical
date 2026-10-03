@@ -189,7 +189,7 @@ LogisticRegression(
 
 ### Confusion Matrix
 
-(![ANN Confusion Matrix](outputs/figures/ann_confusion_matrix.png))
+![Logistic Regression Confusion Matrix](outputs/figures/logistic_confusion_matrix.png)
 
 
 The matrix contains:
@@ -265,7 +265,7 @@ The network contains **153 trainable parameters**.
 
 ## ANN Training & Validation Loss
 
-![ANN Training and Validation Loss](images/ann_loss_curve.png)
+![ANN Training and Validation Loss](outputs/figures/ann_loss_curve.png)
 
 The training loss decreases throughout training, while validation loss decreases and then levels off. The use of early stopping helps prevent unnecessary training after validation performance stops improving.
 
@@ -273,7 +273,8 @@ The training loss decreases throughout training, while validation loss decreases
 
 ## ANN Confusion Matrix
 
-![ANN Training and Validation Loss](outputs/figures/ann_loss_curve.png)
+
+![ANN Confusion Matrix](outputs/figures/ann_confusion_matrix.png)
 
 The matrix contains:
 
