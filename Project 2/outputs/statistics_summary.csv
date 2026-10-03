@@ -1,0 +1,11 @@
+metric,value
+distance_n,184.0
+distance_mean,49.74440217391305
+distance_median,50.2
+distance_std,10.835872254207478
+welch_t_stat,0.7061612423464614
+welch_p_value,0.48105881393425987
+ci_lower,48.16829889365394
+ci_upper,51.320505454172164
+largest_eigenvalue,117.5669974540402
+variance_share,0.5228692293455571
