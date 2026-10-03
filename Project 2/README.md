@@ -3,7 +3,7 @@
 ## 🎥 Video Submission
 
 **Video Submission Link:**  
-🔗 `(https://drive.google.com/file/d/1DTUElYWmicfy09vSpME0jkl9LdfxZbA-/view?usp=sharing)`
+[🔗 `(https://drive.google.com/file/d/1DTUElYWmicfy09vSpME0jkl9LdfxZbA-/view?usp=sharing)`](https://drive.google.com/file/d/1DTUElYWmicfy09vSpME0jkl9LdfxZbA-/view?usp=sharing)
 
 > Replace the placeholder above with your Google Drive / YouTube / OneDrive / other submission link. Make sure the link has the required viewing access.
 
