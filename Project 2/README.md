@@ -91,7 +91,7 @@ The distance variable was analyzed on the fit data.
 
 ### Distance Distribution
 
-![Distance Distribution](images/distance_histogram.png)
+![Distance Distribution](outputs/figures/distance_histogram.png)
 
 The histogram shows the distribution of the `distance` feature used in the statistical analysis.
 
@@ -204,7 +204,8 @@ LogisticRegression(
 
 ### Confusion Matrix
 
-![Logistic Regression Confusion Matrix](images/logistic_confusion_matrix.png)
+(![ANN Confusion Matrix](outputs/figures/ann_confusion_matrix.png))
+
 
 The matrix contains:
 
@@ -287,7 +288,7 @@ The training loss decreases throughout training, while validation loss decreases
 
 ## ANN Confusion Matrix
 
-![ANN Confusion Matrix](images/ann_confusion_matrix.png)
+![ANN Training and Validation Loss](outputs/figures/ann_loss_curve.png)
 
 The matrix contains:
 
