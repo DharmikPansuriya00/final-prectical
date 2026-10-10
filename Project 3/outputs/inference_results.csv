@@ -1,0 +1,8 @@
+item,value
+G1 count,84.0
+G2 count,108.0
+Welch t-statistic,0.7229961865721685
+p-value,0.47065078178032727
+alpha,0.05
+CI lower,49.537187510732345
+CI upper,52.46645832260099
