@@ -4,6 +4,8 @@
 
 This project explores customer campaign data, prepares it for modelling, and compares supervised classification, unsupervised clustering, and a small Artificial Neural Network (ANN) for predicting campaign response.
 
+**[📂 **View Project File on Google Drive**](https://drive.google.com/file/d/1jAwnNUMC5M_o8VPTL-cPxwJMMbv_S3BU/view?usp=sharing)**
+
 ## Project Objectives
 
 - Inspect the dataset, check missing values and duplicate records, and prepare clean data for analysis.
